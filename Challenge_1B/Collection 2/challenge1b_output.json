@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processing_timestamp": "2025-07-27T20:13:42.351266"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Message",
+      "importance_rank": 1,
+      "page_number": 28
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Follow Up",
+      "importance_rank": 2,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Require A Password To Open The Document",
+      "importance_rank": 3,
+      "page_number": 21
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "6.  Select Save",
+      "importance_rank": 4,
+      "page_number": 7
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Follow Up",
+      "importance_rank": 5,
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Customize Your Message",
+      "importance_rank": 6,
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Professional Tip: Clear Instructions",
+      "importance_rank": 7,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Compliance Standard",
+      "importance_rank": 8,
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Content",
+      "importance_rank": 9,
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "4.  Select Click To Sign",
+      "importance_rank": 10,
+      "page_number": 17
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "Message: Type to add or edit text that you want to appear in the body of the email messages.",
+      "page_number": 28
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Follow Up: \u2022  Are you tracking who has accessed the document and following up as needed? Professional Tip: Clear Instructions",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "Require A Password To Open The Document: When selected, makes the Document Open Password option available, where you enter a \npassword that users must use to open the document. Restrict Editing And Printing Of The Document When selected, makes the other Permissions options available.",
+      "page_number": 21
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "6.  Select Save: ",
+      "page_number": 7
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Follow Up: \u2022  Are you tracking who has accessed the document and following up with clients for feedback or next steps? Professional Tip: Highlight Key Details",
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Customize Your Message: \u2022  Have you added a personal touch to the subject and message fields? \u2022",
+      "page_number": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Professional Tip: Clear Instructions: Ensure your email instructions are clear and concise to avoid any confusion for your recipients. Sharing Checklist for Real Estate Professionals",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Compliance Standard: Specify the PDF/A or PDF/E compliance standard, or none. Open Layers Pane When Viewed In Acrobat Shows the layers structure when a PDF is opened in Acrobat.",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "Content: 2.  Select the text box that you want to move, rotate, or resize.",
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "refined_text": "4.  Select Click To Sign: ",
+      "page_number": 17
+    }
+  ]
+}

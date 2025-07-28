@@ -1,0 +1,1940 @@
+{
+    "title": "Supervised Learning:",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "Machine Learning ",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "case of housing price prediction discussed earlier ",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "is the field of study that gives computers the capability to learn without ",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "machine when it does the job the expected way and there came the ",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "that the conventional techniques developed so far failed to analyse the big ",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "Learning networks as awards and there finally comes Deep Reinforcement ",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "Let us now study each of these categories in more details ",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "Regression: ",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "Supervised Learning: ",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "machine to predict Y for a given X for which you do not know the real value ",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "Unsupervised Learning: ",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "figure shows the boundary between the yellow and red dots as determined by ",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "test data to verify that the machine has learned your technique of ",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "understand that the number of data points that the machine would require to ",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "Reinforcement Learning: ",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "and after several iterations would learn to solve the game puzzle with a better ",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "the job rightly gives him a reward and then the dog starts doing the job right ",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "would be able to determine the class of each of the black dots with a fairly ",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "Deep Learning: ",
+            "page": 5
+        },
+        {
+            "level": "H2",
+            "text": "Deep Reinforcement Learning : ",
+            "page": 5
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 5
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 5
+        },
+        {
+            "level": "H1",
+            "text": "Q learning are now combined with deep learning to create a powerful DRL ",
+            "page": 5
+        },
+        {
+            "level": "H1",
+            "text": "These networks have been successfully applied in solving the problems of ",
+            "page": 5
+        },
+        {
+            "level": "H1",
+            "text": "computer ",
+            "page": 5
+        },
+        {
+            "level": "H1",
+            "text": "1. To better filter emails as spam or not ",
+            "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "2. A checkers learning problem ",
+            "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "3. Handwriting Recognition Problem ",
+            "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "4. A Robot Driving Problem ",
+            "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "5. Fruit Prediction Problem ",
+            "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "A computer program is said to learn from experience E in context to some ",
+            "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "Experience ",
+            "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "Performance Measure ",
+            "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "Task ",
+            "page": 6
+        },
+        {
+            "level": "H2",
+            "text": "Well posed learning problems: ",
+            "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "explore slightly deeper into various algorithms that are available under these ",
+            "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "observing a human driver ",
+            "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "or not spam ",
+            "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "6. Face Recognition Problem ",
+            "page": 7
+        },
+        {
+            "level": "H1",
+            "text": "7. Automatic Translation of documents ",
+            "page": 7
+        },
+        {
+            "level": "H1",
+            "text": "Choosing a representation for the Target Function ",
+            "page": 7
+        },
+        {
+            "level": "H1",
+            "text": "Choosing an approximation algorithm for the Target Function ",
+            "page": 7
+        },
+        {
+            "level": "H1",
+            "text": "Choosing the Target Function ",
+            "page": 7
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 7
+        },
+        {
+            "level": "H2",
+            "text": "Design of a learning system: ",
+            "page": 7
+        },
+        {
+            "level": "H1",
+            "text": "Just now we looked into the learning process and also understood the goal ",
+            "page": 7
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 7
+        },
+        {
+            "level": "H1",
+            "text": "The final Design ",
+            "page": 7
+        },
+        {
+            "level": "H1",
+            "text": "Type of training experience ",
+            "page": 7
+        },
+        {
+            "level": "H2",
+            "text": "Type of training experience: ",
+            "page": 7
+        },
+        {
+            "level": "H1",
+            "text": "different face images ",
+            "page": 7
+        },
+        {
+            "level": "H1",
+            "text": "experience available for a learning system will have a significant effect on ",
+            "page": 7
+        },
+        {
+            "level": "H1",
+            "text": "languages ",
+            "page": 7
+        },
+        {
+            "level": "H1",
+            "text": "1. Teacher or Not: ",
+            "page": 8
+        },
+        {
+            "level": "H1",
+            "text": "2. Is the training experience good: ",
+            "page": 8
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 8
+        },
+        {
+            "level": "H1",
+            "text": "Learner generates game states and asks the teacher for help in finding ",
+            "page": 8
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 8
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 9
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 9
+        },
+        {
+            "level": "H1",
+            "text": "function assigns the higher scores to better board states ",
+            "page": 9
+        },
+        {
+            "level": "H1",
+            "text": "legal board states B and produces as output some move from the set of legal ",
+            "page": 9
+        },
+        {
+            "level": "H1",
+            "text": "need to find a target function that will help us choose the best move among ",
+            "page": 9
+        },
+        {
+            "level": "H1",
+            "text": "1. if b is a final board state that is won, then V(b) = 100 ",
+            "page": 10
+        },
+        {
+            "level": "H1",
+            "text": "2. if b is a final board state that is lost, then V(b) = -100 ",
+            "page": 10
+        },
+        {
+            "level": "H1",
+            "text": "3. if b is a final board state that is drawn, then V(b) = 0 ",
+            "page": 10
+        },
+        {
+            "level": "H1",
+            "text": "4. if b is a not a final state in the game, then V (b) = V (b’), where b’ is the best ",
+            "page": 10
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 10
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 10
+        },
+        {
+            "level": "H1",
+            "text": "could allow it to represent using a collection of rules that match against ",
+            "page": 10
+        },
+        {
+            "level": "H1",
+            "text": "data the program will require in order to choose among the alternative ",
+            "page": 10
+        },
+        {
+            "level": "H1",
+            "text": "final board state that can be achieved starting from b and playing optimally ",
+            "page": 10
+        },
+        {
+            "level": "H1",
+            "text": "very expressive representation to allow representing as close an ",
+            "page": 10
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 11
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 11
+        },
+        {
+            "level": "H1",
+            "text": "The first three items above correspond to the specification of the learning ",
+            "page": 11
+        },
+        {
+            "level": "H1",
+            "text": "black pieces threatened by red ",
+            "page": 11
+        },
+        {
+            "level": "H1",
+            "text": "1. The performance System: Takes a new board as input and outputs a trace of ",
+            "page": 12
+        },
+        {
+            "level": "H1",
+            "text": "2. The Critic: Takes the trace of a game as an input and outputs a set of training ",
+            "page": 12
+        },
+        {
+            "level": "H1",
+            "text": "3. The Generalizer: Takes training examples as input and outputs a hypothesis ",
+            "page": 12
+        },
+        {
+            "level": "H1",
+            "text": "4. The Experiment Generator: Takes the current hypothesis (currently learned ",
+            "page": 12
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 12
+        },
+        {
+            "level": "H2",
+            "text": "Issues in Machine Learning: ",
+            "page": 12
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 12
+        },
+        {
+            "level": "H1",
+            "text": "The final design of our checkers learning system can be naturally described ",
+            "page": 12
+        },
+        {
+            "level": "H1",
+            "text": "by four distinct program modules that represent the central components in ",
+            "page": 12
+        },
+        {
+            "level": "H2",
+            "text": "CONCEPT LEARNING: ",
+            "page": 13
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 13
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 13
+        },
+        {
+            "level": "H1",
+            "text": "Our checkers example raises a number of generic questions about machine ",
+            "page": 13
+        },
+        {
+            "level": "H1",
+            "text": "how does the choice of this strategy alter the complexity of the learning ",
+            "page": 13
+        },
+        {
+            "level": "H1",
+            "text": "relate the confidence in learned hypotheses to the amount of training ",
+            "page": 13
+        },
+        {
+            "level": "H1",
+            "text": "space of potential hypotheses for the hypothesis that best fits the training ",
+            "page": 13
+        },
+        {
+            "level": "H1",
+            "text": "the search can be efficiently organized by taking advantage of a naturally ",
+            "page": 13
+        },
+        {
+            "level": "H2",
+            "text": "Concept Learning as Search: ",
+            "page": 14
+        },
+        {
+            "level": "H1",
+            "text": "Concept learning can be viewed as the task of searching through a large ",
+            "page": 14
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 14
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 14
+        },
+        {
+            "level": "H1",
+            "text": "The goal of this search is to find the hypothesis that best fits the training ",
+            "page": 14
+        },
+        {
+            "level": "H1",
+            "text": "algorithm implicitly defines the space of all hypotheses that the program can ",
+            "page": 14
+        },
+        {
+            "level": "H1",
+            "text": "1. Start with the most specific hypothesis. h = {ϕ, ϕ, ϕ, ϕ, ϕ, ϕ} ",
+            "page": 15
+        },
+        {
+            "level": "H1",
+            "text": "3. Else replace a, in h by the next more general constraint that is satisfied by ",
+            "page": 15
+        },
+        {
+            "level": "H1",
+            "text": "4. The most general hypothesis is represented by: {?, ?, ?, ?, ?, ?} ",
+            "page": 15
+        },
+        {
+            "level": "H1",
+            "text": "5. The most specific hypothesis is represented by: {ϕ, ϕ, ϕ, ϕ, ϕ, ϕ} ",
+            "page": 15
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 15
+        },
+        {
+            "level": "H1",
+            "text": "For each attribute ",
+            "page": 15
+        },
+        {
+            "level": "H1",
+            "text": "For each positive training instance x ",
+            "page": 15
+        },
+        {
+            "level": "H1",
+            "text": "Initialize h to the most specific hypothesis in H ",
+            "page": 15
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 15
+        },
+        {
+            "level": "H1",
+            "text": "Then do nothing ",
+            "page": 15
+        },
+        {
+            "level": "H1",
+            "text": "also be consistent with negative examples if the correct target concept is in ",
+            "page": 15
+        },
+        {
+            "level": "H1",
+            "text": "2. Take the next example and if it is negative, then no changes occur to the ",
+            "page": 16
+        },
+        {
+            "level": "H1",
+            "text": "3. If the example is positive and we find that our initial hypothesis is too ",
+            "page": 16
+        },
+        {
+            "level": "H1",
+            "text": "5. After we have completed all the training examples we will have the final ",
+            "page": 16
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 16
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 16
+        },
+        {
+            "level": "H1",
+            "text": "our initial hypothesis is more specific and we have to generalize it for this ",
+            "page": 16
+        },
+        {
+            "level": "H1",
+            "text": "the following data set having the data about which particular seeds are ",
+            "page": 16
+        },
+        {
+            "level": "H2",
+            "text": "Candidate-Elimination Learning Algorithm ",
+            "page": 17
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 17
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 17
+        },
+        {
+            "level": "H1",
+            "text": "Since we have reached a point where all the attributes in our hypothesis ",
+            "page": 17
+        },
+        {
+            "level": "H1",
+            "text": "Version Spaces ",
+            "page": 17
+        },
+        {
+            "level": "H1",
+            "text": "compare every single attribute with the initial data and if any mismatch is ",
+            "page": 17
+        },
+        {
+            "level": "H1",
+            "text": "Add to G all minimal specializations h of g such that ",
+            "page": 18
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 18
+        },
+        {
+            "level": "H1",
+            "text": "For each hypothesis g in G that is not consistent with d ",
+            "page": 18
+        },
+        {
+            "level": "H1",
+            "text": "For each hypothesis s in S that is not consistent with d ",
+            "page": 18
+        },
+        {
+            "level": "H1",
+            "text": "If d is a negative example ",
+            "page": 18
+        },
+        {
+            "level": "H1",
+            "text": "If d is a positive example ",
+            "page": 18
+        },
+        {
+            "level": "H1",
+            "text": "Initialize G to the set of maximally general hypotheses in H Initialize S to ",
+            "page": 18
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 18
+        },
+        {
+            "level": "H1",
+            "text": "Remove from G any hypothesis inconsistent with d ",
+            "page": 18
+        },
+        {
+            "level": "H1",
+            "text": "Remove from G any hypothesis that is less general than another hypothesis ",
+            "page": 18
+        },
+        {
+            "level": "H1",
+            "text": "Remove from S any hypothesis inconsistent with d ",
+            "page": 18
+        },
+        {
+            "level": "H1",
+            "text": "Remove from S any hypothesis that is more general than another hypothesis ",
+            "page": 18
+        },
+        {
+            "level": "H1",
+            "text": "containing all hypotheses from H that are consistent with an observed ",
+            "page": 18
+        },
+        {
+            "level": "H1",
+            "text": "in S ",
+            "page": 18
+        },
+        {
+            "level": "H1",
+            "text": "CANDIDATEELIMINTION algorithm checks the S boundary and finds that ",
+            "page": 19
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 19
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 19
+        },
+        {
+            "level": "H1",
+            "text": "No update of the G boundary is needed in response to this training example ",
+            "page": 19
+        },
+        {
+            "level": "H1",
+            "text": "The boundary is therefore revised by moving it to the least more general ",
+            "page": 19
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 20
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 20
+        },
+        {
+            "level": "H1",
+            "text": "The hypothesis in the G boundary must therefore be specialized until it ",
+            "page": 20
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 21
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 21
+        },
+        {
+            "level": "H1",
+            "text": "This positive example further generalizes the S boundary of the version ",
+            "page": 21
+        },
+        {
+            "level": "H1",
+            "text": "hypotheses consistent with the set of incrementally observed training ",
+            "page": 21
+        },
+        {
+            "level": "H1",
+            "text": "the version space of all hypotheses consistent with the set of incrementally ",
+            "page": 21
+        },
+        {
+            "level": "H1",
+            "text": "this member fails to cover the new positive example After processing these ",
+            "page": 21
+        },
+        {
+            "level": "H1",
+            "text": "1. Classification trees (Yes/No types): ",
+            "page": 22
+        },
+        {
+            "level": "H2",
+            "text": "Decision Tre : e Decision Trees are a type of Supervised Machine Learning (that ",
+            "page": 22
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 22
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 22
+        },
+        {
+            "level": "H1",
+            "text": "is you explain what the input is and what the corresponding output is in the ",
+            "page": 22
+        },
+        {
+            "level": "H1",
+            "text": "123. Working Now that we know what a Decision Tree is, we’ll see how it ",
+            "page": 23
+        },
+        {
+            "level": "H1",
+            "text": "Cannot determine how many alternative decision trees are consistent with ",
+            "page": 23
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 23
+        },
+        {
+            "level": "H1",
+            "text": "Disjunctive descriptions may be required ",
+            "page": 23
+        },
+        {
+            "level": "H1",
+            "text": "Hypothesis space of all decision trees is a complete space of finite discrete ",
+            "page": 23
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 23
+        },
+        {
+            "level": "H1",
+            "text": "The target function has discrete output values ",
+            "page": 23
+        },
+        {
+            "level": "H1",
+            "text": "The training data may contain errors ",
+            "page": 23
+        },
+        {
+            "level": "H2",
+            "text": "Candidate-Elimination ",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "Categorical restriction on the set of ",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 24
+        },
+        {
+            "level": "H2",
+            "text": "ID3 ",
+            "page": 24
+        },
+        {
+            "level": "H2",
+            "text": "Inductive Bias in Decision Tree Learning: Note H is the power set of ",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "Inductive bias is solely a ",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "Inductive bias is solely a consequence ",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "Preference bias ",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "Preference for certain hypotheses ",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "Restriction bias ",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "Searches a complete hypothesis space ",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "Searches an incomplete hypothesis ",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "The resulting search is much less sensitive to errors in individual training ",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "bias ",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "consequence of the expressive ",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "hypotheses considered ",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "incompletely ",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "instances X ",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "of the ordering of hypotheses by its ",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "over others ",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "power of its hypothesis ",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "representation ",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "search strategy ",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "space completely ",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "ANN was the result of an attempt to replicate the workings of the human ",
+            "page": 25
+        },
+        {
+            "level": "H1",
+            "text": "Artificial Neural Networks ",
+            "page": 25
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 25
+        },
+        {
+            "level": "H2",
+            "text": "Introduction: ",
+            "page": 25
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 25
+        },
+        {
+            "level": "H2",
+            "text": "UNIT-II ",
+            "page": 25
+        },
+        {
+            "level": "H1",
+            "text": "complexity and power ",
+            "page": 25
+        },
+        {
+            "level": "H1",
+            "text": "1. Hardware Dependence: ",
+            "page": 26
+        },
+        {
+            "level": "H1",
+            "text": "1. The output of ANNs can be discrete-valued, real-valued, or a vector of ",
+            "page": 26
+        },
+        {
+            "level": "H1",
+            "text": "2. Understanding the network’s operation: ",
+            "page": 26
+        },
+        {
+            "level": "H1",
+            "text": "3. Assured network structure: ",
+            "page": 26
+        },
+        {
+            "level": "H1",
+            "text": "3. It’s utilized when a quick assessment of the taught target function is ",
+            "page": 26
+        },
+        {
+            "level": "H1",
+            "text": "5. the number of training instances evaluated, and the settings of different ",
+            "page": 26
+        },
+        {
+            "level": "H1",
+            "text": "Advantages of Artificial Neural Networks ",
+            "page": 26
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 26
+        },
+        {
+            "level": "H1",
+            "text": "Disadvantages of Artificial Neural Networks ",
+            "page": 26
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 26
+        },
+        {
+            "level": "H1",
+            "text": "The construction of Artificial Neural Networks necessitates the use ",
+            "page": 26
+        },
+        {
+            "level": "H1",
+            "text": "learning algorithm parameters can all contribute to extended training periods ",
+            "page": 26
+        },
+        {
+            "level": "H1",
+            "text": "1. Instances are represented by many attribute-value pairs (e.g., the pixels of a ",
+            "page": 27
+        },
+        {
+            "level": "H1",
+            "text": "2. The target function output may be discrete-valued, real-valued, or a vector of ",
+            "page": 27
+        },
+        {
+            "level": "H1",
+            "text": "4. Difficulty in presenting the issue to the network: ",
+            "page": 27
+        },
+        {
+            "level": "H1",
+            "text": "5. The network’s lifetime is unknown: • When the network’s error on the ",
+            "page": 27
+        },
+        {
+            "level": "H1",
+            "text": "6. The ability for humans to understand the learned target function is not ",
+            "page": 27
+        },
+        {
+            "level": "H2",
+            "text": "Appropriate Problems for Neural Network Learning: ",
+            "page": 27
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 27
+        },
+        {
+            "level": "H2",
+            "text": "History of Neural Networks: ",
+            "page": 27
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 27
+        },
+        {
+            "level": "H1",
+            "text": "7. Since 1985: A lot of research in Neural Nets ! ",
+            "page": 28
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 28
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 28
+        },
+        {
+            "level": "H2",
+            "text": "Multilayer Neural Network: ",
+            "page": 28
+        },
+        {
+            "level": "H1",
+            "text": "hidden layers ",
+            "page": 28
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 29
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 29
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 30
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 30
+        },
+        {
+            "level": "H2",
+            "text": "Back propagation: Overview ",
+            "page": 31
+        },
+        {
+            "level": "H1",
+            "text": "Consider the following Back propagation neural network example diagram to ",
+            "page": 31
+        },
+        {
+            "level": "H2",
+            "text": "Definition: ",
+            "page": 31
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 31
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 31
+        },
+        {
+            "level": "H1",
+            "text": "The Back propagation algorithm in neural network computes the gradient of ",
+            "page": 31
+        },
+        {
+            "level": "H1",
+            "text": "starting with the hidden to output weights and followed by the input to ",
+            "page": 31
+        },
+        {
+            "level": "H1",
+            "text": "1. Inputs X, arrive through the preconnected path ",
+            "page": 32
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 32
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 32
+        },
+        {
+            "level": "H2",
+            "text": "Why We Need Back propagation? ",
+            "page": 32
+        },
+        {
+            "level": "H1",
+            "text": "network ",
+            "page": 32
+        },
+        {
+            "level": "H2",
+            "text": "Back propagation: The Algorithm ",
+            "page": 33
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 33
+        },
+        {
+            "level": "H1",
+            "text": "Disadvantages of using Back propagation ",
+            "page": 33
+        },
+        {
+            "level": "H1",
+            "text": "It is one kind of back propagation network which produces a mapping of a ",
+            "page": 33
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 33
+        },
+        {
+            "level": "H1",
+            "text": "Recurrent Back propagation in data mining is fed forward until a fixed value ",
+            "page": 33
+        },
+        {
+            "level": "H2",
+            "text": "Recurrent Back propagation: ",
+            "page": 33
+        },
+        {
+            "level": "H1",
+            "text": "Types of Back propagation Networks ",
+            "page": 33
+        },
+        {
+            "level": "H1",
+            "text": "data ",
+            "page": 33
+        },
+        {
+            "level": "H1",
+            "text": "for the hidden layer by propagating the error ",
+            "page": 33
+        },
+        {
+            "level": "H2",
+            "text": "Back propagation: The Momentum: ",
+            "page": 34
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 34
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 34
+        },
+        {
+            "level": "H1",
+            "text": "is the momentum parameter which regulates the ",
+            "page": 34
+        },
+        {
+            "level": "H1",
+            "text": "1. Neglect your prior beliefs since now you have new data, decide the ",
+            "page": 35
+        },
+        {
+            "level": "H1",
+            "text": "2. Adjust your belief accordingly to the value of hh that you have just observed, ",
+            "page": 35
+        },
+        {
+            "level": "H1",
+            "text": "Department Of CSE ",
+            "page": 35
+        },
+        {
+            "level": "H1",
+            "text": "Imagine a situation where your friend gives you a new coin and asks you the ",
+            "page": 35
+        },
+        {
+            "level": "H1",
+            "text": "Introduction to Bayesian Learning ",
+            "page": 35
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 35
+        },
+        {
+            "level": "H2",
+            "text": "UNIT - III ",
+            "page": 35
+        },
+        {
+            "level": "H1",
+            "text": "by combining our recent observations and beliefs that we have gained ",
+            "page": 35
+        },
+        {
+            "level": "H1",
+            "text": "recent observations together with our beliefs or inclination for critical ",
+            "page": 35
+        },
+        {
+            "level": "H1",
+            "text": "Department Of CSE ",
+            "page": 36
+        },
+        {
+            "level": "H1",
+            "text": "Frequentist Statistics ",
+            "page": 36
+        },
+        {
+            "level": "H1",
+            "text": "Let us think about how we can determine the fairness of the coin using our ",
+            "page": 36
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 36
+        },
+        {
+            "level": "H1",
+            "text": "The Famous Coin Flip Experiment ",
+            "page": 36
+        },
+        {
+            "level": "H1",
+            "text": "determine the conditional probability of a hypotheses given some evidence ",
+            "page": 36
+        },
+        {
+            "level": "H1",
+            "text": "to use frequentist statistics due to the drawbacks that we have discussed ",
+            "page": 36
+        },
+        {
+            "level": "H1",
+            "text": "Department Of CSE ",
+            "page": 37
+        },
+        {
+            "level": "H1",
+            "text": "Let us now further investigate the coin flip example using the frequentist ",
+            "page": 37
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 37
+        },
+        {
+            "level": "H1",
+            "text": "Testing whether a hypothesis is true or false by calculating the probability ",
+            "page": 37
+        },
+        {
+            "level": "H3",
+            "text": "0.550.55 than 0.60.6 because the former is computed using observations from ",
+            "page": 38
+        },
+        {
+            "level": "H1",
+            "text": "Department of CSE ",
+            "page": 38
+        },
+        {
+            "level": "H1",
+            "text": "If we can determine the confidence of the estimated pp value or the inferred ",
+            "page": 38
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 38
+        },
+        {
+            "level": "H1",
+            "text": "Number ",
+            "page": 38
+        },
+        {
+            "level": "H1",
+            "text": "Number of heads ",
+            "page": 38
+        },
+        {
+            "level": "H1",
+            "text": "Our confidence of estimated pp may also increase when increasing the ",
+            "page": 38
+        },
+        {
+            "level": "H1",
+            "text": "Probability of observing heads ",
+            "page": 38
+        },
+        {
+            "level": "H1",
+            "text": "We cannot find out the exact answers to the first three questions using ",
+            "page": 38
+        },
+        {
+            "level": "H1",
+            "text": "Will pp continue to change when we further increase the number of coin flip ",
+            "page": 38
+        },
+        {
+            "level": "H1",
+            "text": "a considerable number of trials compared to what we used to compute the ",
+            "page": 38
+        },
+        {
+            "level": "H1",
+            "text": "coin ",
+            "page": 38
+        },
+        {
+            "level": "H1",
+            "text": "flips ",
+            "page": 38
+        },
+        {
+            "level": "H1",
+            "text": "trials ",
+            "page": 38
+        },
+        {
+            "level": "H1",
+            "text": "understand the importance of such a confident measure by studying the ",
+            "page": 38
+        },
+        {
+            "level": "H1",
+            "text": "with an infinite number of trials and we should stop the experiment after a ",
+            "page": 38
+        },
+        {
+            "level": "H2",
+            "text": "Bayes’ Theorem ",
+            "page": 39
+        },
+        {
+            "level": "H1",
+            "text": "Department Of CSE ",
+            "page": 39
+        },
+        {
+            "level": "H1",
+            "text": "Joint probability distribution ",
+            "page": 39
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 39
+        },
+        {
+            "level": "H1",
+            "text": "Some Terms to Understand ",
+            "page": 39
+        },
+        {
+            "level": "H1",
+            "text": "discrete probability distributions can be represented using probability mass ",
+            "page": 39
+        },
+        {
+            "level": "H1",
+            "text": "distributions are described using probability density functions whereas ",
+            "page": 39
+        },
+        {
+            "level": "H1",
+            "text": "each possible value of a random variable has some probability attached to it ",
+            "page": 39
+        },
+        {
+            "level": "H1",
+            "text": "incorporate such beliefs or past experience to increase the accuracy of the ",
+            "page": 39
+        },
+        {
+            "level": "H1",
+            "text": "of the mathematical definition since there is a lot of widely available content ",
+            "page": 39
+        },
+        {
+            "level": "H1",
+            "text": "significant role in shaping the outcome of a hypothesis test especially when ",
+            "page": 39
+        },
+        {
+            "level": "H1",
+            "text": "to concluding that our code has no bugs given the evidence that it has passed ",
+            "page": 39
+        },
+        {
+            "level": "H1",
+            "text": "us to decide whether to accept the conclusion or to extend the experiment ",
+            "page": 39
+        },
+        {
+            "level": "H1",
+            "text": "Department Of CSE ",
+            "page": 40
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 40
+        },
+        {
+            "level": "H1",
+            "text": "assume that it is very unlikely to find bugs in our code because rarely have ",
+            "page": 40
+        },
+        {
+            "level": "H1",
+            "text": "we have to decide the priors using other means ",
+            "page": 40
+        },
+        {
+            "level": "H1",
+            "text": "Department Of CSE ",
+            "page": 41
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 41
+        },
+        {
+            "level": "H2",
+            "text": "Maximum a Posteriori (MAP) ",
+            "page": 41
+        },
+        {
+            "level": "H1",
+            "text": "We now know both conditional probabilities of observing a bug in the code ",
+            "page": 41
+        },
+        {
+            "level": "H1",
+            "text": "Department Of CSE ",
+            "page": 42
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 42
+        },
+        {
+            "level": "H1",
+            "text": "bugs ",
+            "page": 42
+        },
+        {
+            "level": "H1",
+            "text": "code ",
+            "page": 42
+        },
+        {
+            "level": "H1",
+            "text": "good programmers and therefore the probability of observing a bug is ",
+            "page": 42
+        },
+        {
+            "level": "H1",
+            "text": "present ",
+            "page": 42
+        },
+        {
+            "level": "H1",
+            "text": "statistics where our belief or past experience had no influence on the ",
+            "page": 42
+        },
+        {
+            "level": "H1",
+            "text": "Binomial Likelihood ",
+            "page": 43
+        },
+        {
+            "level": "H1",
+            "text": "Department Of CSE ",
+            "page": 43
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 43
+        },
+        {
+            "level": "H1",
+            "text": "Notice that MAP estimation algorithms do not compute posterior probability ",
+            "page": 43
+        },
+        {
+            "level": "H1",
+            "text": "The likelihood for the coin flip experiment is given by the probability of ",
+            "page": 43
+        },
+        {
+            "level": "H1",
+            "text": "finding the most probable hypothesis without computing posteriors or only ",
+            "page": 43
+        },
+        {
+            "level": "H1",
+            "text": "the above example was solely designed to introduce the Bayesian theorem ",
+            "page": 43
+        },
+        {
+            "level": "H1",
+            "text": "to find the posterior of each hypothesis in order to decide which is the most ",
+            "page": 43
+        },
+        {
+            "level": "H1",
+            "text": "Department Of CSE ",
+            "page": 44
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 44
+        },
+        {
+            "level": "H1",
+            "text": "Now that we have defined two conditional probabilities for each outcome ",
+            "page": 44
+        },
+        {
+            "level": "H1",
+            "text": "The above equation represents the likelihood of a single test coin flip ",
+            "page": 44
+        },
+        {
+            "level": "H1",
+            "text": "of heads out of NN number of trials as a Binomial probability distribution as ",
+            "page": 44
+        },
+        {
+            "level": "H1",
+            "text": "represent the likelihood of a coin flip experiment that we observe kk number ",
+            "page": 44
+        },
+        {
+            "level": "H1",
+            "text": "the probability distribution of a single trial experiment with only two ",
+            "page": 44
+        },
+        {
+            "level": "H1",
+            "text": "Bayes Optimal Classifier ",
+            "page": 45
+        },
+        {
+            "level": "H1",
+            "text": "Department Of CSE ",
+            "page": 45
+        },
+        {
+            "level": "H1",
+            "text": "Gibbs Sampling Algorithm ",
+            "page": 45
+        },
+        {
+            "level": "H1",
+            "text": "Least squares estimates are calculated by fitting a regression line to the points ",
+            "page": 45
+        },
+        {
+            "level": "H2",
+            "text": "Least squares estimation method (LSE) ",
+            "page": 45
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 45
+        },
+        {
+            "level": "H2",
+            "text": "Maximum likelihood estimation method (MLE) ",
+            "page": 45
+        },
+        {
+            "level": "H1",
+            "text": "The Bayes optimal classifier is a probabilistic model that makes the most ",
+            "page": 45
+        },
+        {
+            "level": "H1",
+            "text": "The likelihood function indicates how likely the observed sample is as a ",
+            "page": 45
+        },
+        {
+            "level": "H1",
+            "text": "function determines the parameters that are most likely to produce the ",
+            "page": 45
+        },
+        {
+            "level": "H1",
+            "text": "Bayes ",
+            "page": 46
+        },
+        {
+            "level": "H1",
+            "text": "Department Of CSE ",
+            "page": 46
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 46
+        },
+        {
+            "level": "H1",
+            "text": "Naive Bayes Classifier Algorithm ",
+            "page": 46
+        },
+        {
+            "level": "H1",
+            "text": "Department Of CSE ",
+            "page": 47
+        },
+        {
+            "level": "H1",
+            "text": "EXAMPLE ",
+            "page": 47
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 47
+        },
+        {
+            "level": "H1",
+            "text": "Outlook ",
+            "page": 47
+        },
+        {
+            "level": "H1",
+            "text": "Overcast ",
+            "page": 47
+        },
+        {
+            "level": "H1",
+            "text": "Play ",
+            "page": 47
+        },
+        {
+            "level": "H1",
+            "text": "Rainy ",
+            "page": 47
+        },
+        {
+            "level": "H1",
+            "text": "Sunny ",
+            "page": 47
+        },
+        {
+            "level": "H1",
+            "text": "Suppose we have a dataset of weather conditions and corresponding target ",
+            "page": 47
+        },
+        {
+            "level": "H1",
+            "text": "algorithms which helps in building the fast machine learning models that can ",
+            "page": 47
+        },
+        {
+            "level": "H1",
+            "text": "Department Of CSE ",
+            "page": 48
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 48
+        },
+        {
+            "level": "H1",
+            "text": "Overcast ",
+            "page": 48
+        },
+        {
+            "level": "H1",
+            "text": "Rainy ",
+            "page": 48
+        },
+        {
+            "level": "H1",
+            "text": "Sunny ",
+            "page": 48
+        },
+        {
+            "level": "H1",
+            "text": "Total ",
+            "page": 48
+        },
+        {
+            "level": "H1",
+            "text": "Weather ",
+            "page": 48
+        },
+        {
+            "level": "H2",
+            "text": "Bayesian Belief Network: ",
+            "page": 49
+        },
+        {
+            "level": "H1",
+            "text": "Department Of CSE ",
+            "page": 49
+        },
+        {
+            "level": "H1",
+            "text": "It is a graphical representation of different probabilistic relationships among ",
+            "page": 49
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 49
+        },
+        {
+            "level": "H1",
+            "text": "2. Expectation step (E – step): Using the observed available data of the ",
+            "page": 50
+        },
+        {
+            "level": "H1",
+            "text": "3. Maximization step (M – step): Complete data generated after the ",
+            "page": 50
+        },
+        {
+            "level": "H1",
+            "text": "Department Of CSE ",
+            "page": 50
+        },
+        {
+            "level": "H2",
+            "text": "Expectation-Maximization Algorithm ",
+            "page": 50
+        },
+        {
+            "level": "H1",
+            "text": "MRCET ",
+            "page": 50
+        },
+        {
+            "level": "H1",
+            "text": "actually at the base of many unsupervised clustering algorithms in the field of ",
+            "page": 50
+        },
+        {
+            "level": "H1",
+            "text": "maximum likelihood parameters of a statistical model in the cases where ",
+            "page": 50
+        },
+        {
+            "level": "H1",
+            "text": "predict their values with the condition that the general form of probability ",
+            "page": 50
+        },
+        {
+            "level": "H1",
+            "text": "there are many relevant features available for learning but only a small subset ",
+            "page": 50
+        },
+        {
+            "level": "H1",
+            "text": "visible is observed for the purpose of learning and then predict its value in the ",
+            "page": 50
+        }
+    ]
+}
